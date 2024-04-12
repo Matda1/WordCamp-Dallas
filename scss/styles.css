@@ -2,12 +2,10 @@
 .jumbotron {
   background-color: navy;
 }
-
-#tittle {
+.jumbotron #tittle {
   color: white;
 }
-
-#leadtittle {
+.jumbotron #leadtittle {
   color: white;
 }
 

@@ -6,18 +6,19 @@ $leadtittle: white;
 .jumbotron{
     background-color:$jumbotron;
 
-}
+    #tittle{
+        color:$tittle;
+    }
+    #leadtittle{
+        color: $leadtittle;
+    }
 
-#tittle{
-    color: $tittle;
-}
-
-#leadtittle{
-    color: $leadtittle;
 }
 /*Jumbotron*/
+
 
 
 hr{
     background-color: navy;
 }
+
