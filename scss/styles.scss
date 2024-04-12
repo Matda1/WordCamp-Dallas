@@ -1,0 +1,23 @@
+$jumbotron:navy;
+$tittle: white;
+$leadtittle: white;
+
+/*Jumbotron*/
+.jumbotron{
+    background-color:$jumbotron;
+
+}
+
+#tittle{
+    color: $tittle;
+}
+
+#leadtittle{
+    color: $leadtittle;
+}
+/*Jumbotron*/
+
+
+hr{
+    background-color: navy;
+}
